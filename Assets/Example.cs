@@ -8,7 +8,7 @@ public class Example : MonoBehaviour {
 	
 	}
 
-	public float uselessVariable = 0;
+	public float uselessVariable = 1;
 	public float nextTime = 0f;
 	public float timer = 0.5f;
 	public int counter = 10;
